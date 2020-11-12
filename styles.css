@@ -165,11 +165,10 @@ main {
 
 .main-currency-table .currency-table--title {
   margin-bottom: 15px;
-  margin-left: 15px;
   font-size: 1.8rem;
   font-weight: bold;
   line-height: 2.3rem;
-  text-align: left;
+  text-align: center;
   color: var(--bitcoin-orange);
 }
 
